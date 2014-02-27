@@ -1,7 +1,7 @@
 Projeto Disciplinar
 ===================
 
-Istitucional
+Institucional
 ------------
 
 Faculdade Anhaguera
